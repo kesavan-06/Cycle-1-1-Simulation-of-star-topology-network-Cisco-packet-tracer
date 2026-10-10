@@ -1,5 +1,9 @@
 # Cycle-1-----1-Simulation-of-star-topology-network
 # 🖧 Network Simulation using Cisco Packet Tracer
+## NAME : KESAVAN S
+## REG : 212223060125
+
+
 
 ## 🎯 AIM
 To simulate a network with topology using Cisco Packet Tracer and verify connectivity between computers using ICMP.
@@ -33,18 +37,14 @@ To simulate a network with topology using Cisco Packet Tracer and verify connect
 
 ## 📊 IP CONNECTIVITY TABLE
 
-| SENDER/RECEIVER | PC0 | PC1 | PC2 | PC3 | PC4 | PC5 |
-|------------------|-----|-----|-----|-----|-----|-----|
-| PC0              |     |     |     |     |     |     |
-| PC1              |     |     |     |     |     |     |
-| PC2              |     |     |     |     |     |     |
-| PC3              |     |     |     |     |     |     |
-| PC4              |     |     |     |     |     |     |
-| PC5              |     |     |     |     |     |     |
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/0fe2e44a-c73f-442f-8582-e2356ae76be6" />
+
+
 
 ## 🗺️ NETWORK DIAGRAM
 ---
-<img width="1024" height="326" alt="image" src="https://github.com/user-attachments/assets/b1678fb3-30c2-4351-9b61-ee7b524be458" />
+<img width="1535" height="862" alt="Screenshot 2026-10-10 110226" src="https://github.com/user-attachments/assets/865d8295-6d11-450f-8a33-44118674c565" />
+
 
 
 ## 🧾 BASIC NETWORKING COMMANDS
@@ -73,7 +73,8 @@ C:\> ipconfig /all
 
 ## OUTPUT
 ---
-<img width="1088" height="796" alt="image" src="https://github.com/user-attachments/assets/39cc071d-feae-4f5e-b8a6-f2b7a155daf0" />
+<img width="1533" height="857" alt="Screenshot 2026-10-10 110253" src="https://github.com/user-attachments/assets/2b252d77-ad1e-4101-a541-58dd91e315e8" />
+
 
 ## RESULT
 Thus the computers in same network are able to communicate with each other and the communication between them were verified
